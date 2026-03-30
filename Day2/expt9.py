@@ -1,0 +1,19 @@
+print(bool(1))
+print(bool(15))
+print(bool(3.14))
+print(bool(1.0))
+print(bool(1+2j))
+print(bool(0+0j))
+print(bool(-1))
+print(bool(False))
+print(bool(True))
+print(bool(" "))
+
+
+
+
+
+
+
+
+

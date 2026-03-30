@@ -1,0 +1,6 @@
+print(int(3.14))
+#print(int(10+5j))
+print(int(True))
+print(int(False))
+# print(int("4.22"))
+print(int("4"))
